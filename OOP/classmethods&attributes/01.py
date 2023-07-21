@@ -1,3 +1,4 @@
+# What will be the output of the following code? Why?
 class A:
     x = 20
     y = 30

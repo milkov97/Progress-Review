@@ -1,3 +1,4 @@
+# What will be the output of the following code? Why?
 def append_to_list(item, my_list=[]):
     return my_list.append(item)
 

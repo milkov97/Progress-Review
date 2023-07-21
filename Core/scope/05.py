@@ -1,3 +1,4 @@
+# What will be the output of the following code? Why?
 def outer_function():
     x = 10
 

@@ -1,3 +1,4 @@
+# What will be the output of the following code? Why?
 class Video:
     def __init__(self):
         self._views = 0

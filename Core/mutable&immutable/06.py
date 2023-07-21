@@ -1,3 +1,4 @@
+# What will be the output of the following code? Why?
 def tricky_function(my_tuple=(), my_list=[]):
     my_tuple += (1,)
     my_list.append(1)

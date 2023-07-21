@@ -1,3 +1,4 @@
+# What will be the output of the following code? Why?
 def tuple_function(item, my_tuple=()):
     my_tuple += (item,)
     return my_tuple

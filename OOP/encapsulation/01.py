@@ -1,3 +1,4 @@
+# What will be the output of the following code? Why?
 class Counter:
     def __init__(self):
         self._updates = 0

@@ -1,3 +1,4 @@
+# What will be the output of the following code? Why?
 class A:
     def method(self):
         return 5

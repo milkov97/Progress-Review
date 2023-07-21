@@ -1,3 +1,4 @@
+# What will be the output of the following code? Why?
 class Person:
 
     def __init__(self, name, age):
