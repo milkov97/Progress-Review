@@ -29,8 +29,8 @@ If you have any feedback or suggestions for improvement, please don't hesitate t
 
 If you have any questions or would like to discuss my experience as a mentor in more detail, please reach out to me through the following contact methods:
 
-- **Email**: (mailto:milkov.kristiyan@gmail.com)
-- **LinkedIn**: ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kristiyan-milkov/))
+- **Email**: milkov.kristiyan@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/kristiyan-milkov/
 
 Thank you for considering this repository, and I hope it proves to be a valuable resource for your Python learning journey.
 
